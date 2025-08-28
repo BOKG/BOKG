@@ -17,7 +17,7 @@ Soy un **Desarrollador Backend y Administrador de Sistemas** con amplia experien
 
 ## 📈 Estadísticas de GitHub
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=BOKG" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=BOKG&theme=dark&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </a>
 
 ## 🛠️ Stack Tecnológico
